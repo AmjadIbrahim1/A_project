@@ -98,12 +98,6 @@ This project demonstrates strong foundational skills in HTML and CSS, with a spe
 
 ---
 
-## 📷 Screenshots *(Optional)*
-
-> You can include screenshots here to showcase different sections of the site.
-
----
-
 ## 🧑‍💻 Author
 
 **Amjad Ibrahim**  
