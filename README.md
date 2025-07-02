@@ -88,7 +88,7 @@ Gaming-Loop/
 ## 🌐 Live Demo
 
 You can view the final result live here:  
-🔗 [View Live Demo](https://amjadibrahim1.github.io/A_project/)
+🔗 [View Live Demo](https://amjadibrahim1.github.io/Game_Loop/)
 
 ---
 
